@@ -1,4 +1,5 @@
-# 2048
+# 2048GameConsoleVersion
+
 2048 Console Version is a C++ implementation of the classic 2048 puzzle game. Players merge numbered tiles by sliding them across the grid to achieve the highest possible score. This console-based game offers features such as adjustable grid sizes, leaderboard rankings, and a save/resume option.
 
 Features
